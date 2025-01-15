@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CryptoLifeCrisis
-- 👀 I’m interested in ... BTC ETH EVN
-- 🌱 I’m currently learning ... IPFS
-- 💞️ I’m looking to collaborate on ... TOKENIZATION
-- 📫 How to reach me ... CRYPTOLIFECRISIS@GMAIL>COM
+- 👀 I’m interested in ... BLOCKCHAIN DEFI & ASSET TOKENIZATION
+- 🌱 I’m currently learning ... BITCOIN
+- 💞️ I’m looking to collaborate on ... MARKETING & TOKENIZATION
+- 📫 How to reach me ... CRYPTOLIFECRISIS@GMAIL.COM
 
 <!---
 CryptoLifeCrisis/CryptoLifeCrisis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
